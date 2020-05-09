@@ -9,18 +9,18 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Sangeeth Technologies.</h1>
-<h1 align="center"> We have new Batch demo on 25th Jan 2020 at 9 AM IST......Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases...</h1>
+<h1 align="center">Welcome to Devops Technologies.</h1>
+<h1 align="center"> We have new Batch demo on 25th Jan 2020 at 9 AM IST......Very Good Training center for DevOps with AWS in Bachupally and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases...</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore.
-		+91-9980923226,
+		Devops Technologies, 
+		Bachupally,
+		Hyderabad.
+		+91-9160705055,
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
@@ -30,7 +30,7 @@
 <hr>
 <hr>
 <p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Devops Technologies</a> </small></p>
 
 </body>
 </html>
